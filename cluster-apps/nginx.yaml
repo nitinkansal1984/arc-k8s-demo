@@ -5,7 +5,7 @@ metadata:
   labels:
     app: nginx
   name: nginx
-  namespace: team-c
+  namespace: flux
 spec:
   replicas: 1
   selector:
